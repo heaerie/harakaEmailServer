@@ -1,4 +1,4 @@
-durai@durai-VirtualBox:/tmp/haraka_demo/config$ swaks -h haraka.test -f durai145@gmail.com -t matt@haraka.test -s localhost -p 2525
+durai@durai-VirtualBox:/tmp/haraka_demo/config$ swaks -h haraka.test -f dxxxx@gmail.com -t matt@haraka.test -s localhost -p 2525
 === Trying localhost:2525...
 === Connected to localhost.
 <-  220 durai-VirtualBox ESMTP Haraka 2.8.11 ready
@@ -7,8 +7,8 @@ durai@durai-VirtualBox:/tmp/haraka_demo/config$ swaks -h haraka.test -f durai145
 <-  250-PIPELINING
 <-  250-8BITMIME
 <-  250 SIZE 0
- -> MAIL FROM:<durai145@gmail.com>
-<-  250 sender <durai145@gmail.com> OK
+ -> MAIL FROM:<xxxx@gmail.com>
+<-  250 sender <xxxx@gmail.com> OK
  -> RCPT TO:<matt@haraka.test>
 <-  250 recipient <matt@haraka.test> OK
  -> DATA
